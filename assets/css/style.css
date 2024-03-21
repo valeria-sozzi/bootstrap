@@ -2,3 +2,12 @@
 .fs-small{
     font-size: 0.8rem;
 }
+
+.bg-teal{
+    background-color: var(--bs-teal);
+}
+
+.card-hero>img{
+    width: 20%;
+
+}
