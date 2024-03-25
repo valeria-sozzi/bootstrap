@@ -10,3 +10,15 @@
 .card-hero>img{
     width: 20%;
 }
+
+.bg-navy{
+    background-color: #3A546D;
+}
+
+.c-teal{
+    color: var(--bs-teal);
+}
+
+.copy{
+    background-color: #2c3e50;
+}
